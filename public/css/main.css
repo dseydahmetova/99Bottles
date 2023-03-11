@@ -1,0 +1,29 @@
+body{
+    /* color: rgb(4, 113, 4); */
+    /* font-size: 14px; */
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+#bottle{
+    color: rgb(4, 113, 4);
+    margin:30px;
+    padding:30px;
+    background-color: rgb(195, 215, 202);
+    width: 400px;
+}
+
+#bug{
+    color: rgb(4, 113, 4);
+    margin:30px;
+    padding:30px;
+    background-color: rgb(174, 198, 217);
+    width: 400px;
+}
+
+#start{
+    margin:30px;
+    padding:30px;
+    background-color: rgb(234, 185, 149);
+    width: 400px;
+    color: red;
+}
